@@ -1,8 +1,8 @@
 (()=>{
     let counter = 0;
     let size = 100;
-    let transition = 1;
-    let speed = 2000;
+    let transition = .5;
+    let speed = 4000;
     let parentDiv;
     let sliderTrueFalse = true;
     
