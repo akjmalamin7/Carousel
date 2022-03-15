@@ -2,7 +2,7 @@
     let counter = 0;
     let size = 100;
     let transition = .5;
-    let speed = 4000;
+    let speed = 5000;
     let parentDiv;
     let sliderTrueFalse = true;
     
